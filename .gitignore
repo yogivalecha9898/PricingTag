@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+design
+README.md
+style-guide.md
+package.lock.json
+.vscode
